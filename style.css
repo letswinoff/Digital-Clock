@@ -49,3 +49,39 @@ body{
     text-shadow: 2px 2px rgb(121, 111, 111);
 
 }  
+
+.inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #7a7a7a;
+    padding-bottom: 2rem;
+    border-top-right-radius: 0rem;
+}
+
+.header{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 1rem 1rem;
+    padding-top: 1.5rem;
+    
+}
+
+.unordered{
+    list-style: none;
+    text-align: center;
+    padding: 0rem 2rem;
+}
+
+.inline:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
